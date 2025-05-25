@@ -83,12 +83,6 @@ This project is a custom 75% mechanical keyboard PCB designed around the Raspber
 
 ---
 
-## License  
-- **Hardware**: [CERN OHL 1.2](LICENSE_HARDWARE).  
- 
-
----
-
 ## Acknowledgements  
 - JLCPCB for PCB manufacturing.  
 - Raspberry Pi Foundation for RP2040.  
