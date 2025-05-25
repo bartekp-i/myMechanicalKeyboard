@@ -91,6 +91,7 @@ This project is a custom 75% mechanical keyboard PCB designed around the Raspber
 
 **Keyboard layout** 
 ![keyboard-layout](https://github.com/user-attachments/assets/36374ffc-ff6f-4ab3-b52e-819034e13172)
+
 **Schematic** 
 ![image](https://github.com/user-attachments/assets/e2352559-2c77-420e-8224-c967ec53c53b)
 ![image](https://github.com/user-attachments/assets/c1ecb416-31de-44c8-9e1a-9129b640e424)
@@ -122,4 +123,4 @@ This project is a custom 75% mechanical keyboard PCB designed around the Raspber
 
 
 ---  
-*Designed with ⌨️ by Bartosz Piotrowski.*
+*Designed with Kicad by Bartosz Piotrowski.*
