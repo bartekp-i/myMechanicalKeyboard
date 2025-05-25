@@ -51,7 +51,7 @@ This project is a custom 75% mechanical keyboard PCB designed around the Raspber
 - Required for longer keys: Spacebar, Enter, Backspace, and Shift (supports Cherry-style stabilizers).  
 
 ### OLED Module  
-- **0.96-inch RGB OLED**: Connected via I2C/SPI (configurable in firmware).  
+- **0.96-inch RGB OLED**: Connected via SPI.  
 - Mounting: THT pads or header pins for secure attachment.  
 
 ---
@@ -94,23 +94,37 @@ This project is a custom 75% mechanical keyboard PCB designed around the Raspber
 - Raspberry Pi Foundation for RP2040.  
 
 ## 📸 Photos!  
-*PCB Layout*
+
+**Keyboard layout** 
+![keyboard-layout](https://github.com/user-attachments/assets/36374ffc-ff6f-4ab3-b52e-819034e13172)
+**Schematic** 
+![image](https://github.com/user-attachments/assets/e2352559-2c77-420e-8224-c967ec53c53b)
+![image](https://github.com/user-attachments/assets/c1ecb416-31de-44c8-9e1a-9129b640e424)
+
+**PCB Layout**
 ![image](https://github.com/user-attachments/assets/e2a1e1b3-3463-414b-8dad-01f92e65b5f2)
 
-*Keyboard Plate*
+**Keyboard Plate**
 ![image](https://github.com/user-attachments/assets/228409c0-0588-44f2-9471-006ce878b704)
 
-*Back Plate*
+**Back Plate**
 ![image](https://github.com/user-attachments/assets/eb16f702-afb3-4fd0-a452-9f7609b363d3)
 
-*3D PCB Layout*
+**3D PCB Layout**
 ![image](https://github.com/user-attachments/assets/5ca09da4-3994-46e7-9734-d4910ed0aa89)
 
-*3D Keyboard Plate*
+**3D Keyboard Plate**
 ![image](https://github.com/user-attachments/assets/65f55a00-97cf-4d20-8e37-9bb705ff3d45)
 
-*3D Back Plate*
+**3D Back Plate**
 ![image](https://github.com/user-attachments/assets/1ba2c2ec-b057-4017-ab46-482667685f35)
+
+**Boards After Manufacturing**
+![de2a45c0-26ce-4094-b5c6-7f7046fe6de4](https://github.com/user-attachments/assets/55a00167-a0f2-483d-bb35-7990f8b64e47)
+![ff16e77b-f6f2-4f7a-a8ca-ae126aca71c9](https://github.com/user-attachments/assets/05522286-4a75-40ec-affa-df896fff20d5)
+![aa148c33-f10a-49f3-b886-1f6bd5d3fd8b](https://github.com/user-attachments/assets/a5459021-be8b-4f22-b05b-54fb88cb2bae)
+![42f9e057-b715-42d8-a504-73b2bb60c914](https://github.com/user-attachments/assets/35e36f4b-e37e-4cb5-a0d1-208a5fb0f74c)
+
 
 
 ---  
