@@ -107,7 +107,7 @@ This project is a custom 75% mechanical keyboard PCB designed around the Raspber
 ![image](https://github.com/user-attachments/assets/5ca09da4-3994-46e7-9734-d4910ed0aa89)
 
 *3D Keyboard Plate*
-![image](https://github.com/user-attachments/assets/57facf11-de91-4f5d-9f60-c00dd92e9887)
+![image](https://github.com/user-attachments/assets/65f55a00-97cf-4d20-8e37-9bb705ff3d45)
 
 *3D Back Plate*
 ![image](https://github.com/user-attachments/assets/1ba2c2ec-b057-4017-ab46-482667685f35)
