@@ -93,7 +93,24 @@ This project is a custom 75% mechanical keyboard PCB designed around the Raspber
 - JLCPCB for PCB manufacturing.  
 - Raspberry Pi Foundation for RP2040.  
 
-📸 *Photos!*  
+## 📸 Photos!  
+*PCB Layout*
+![image](https://github.com/user-attachments/assets/e2a1e1b3-3463-414b-8dad-01f92e65b5f2)
+
+*Keyboard Plate*
+![image](https://github.com/user-attachments/assets/228409c0-0588-44f2-9471-006ce878b704)
+
+*Back Plate*
+![image](https://github.com/user-attachments/assets/eb16f702-afb3-4fd0-a452-9f7609b363d3)
+
+*3D PCB Layout*
+![image](https://github.com/user-attachments/assets/5ca09da4-3994-46e7-9734-d4910ed0aa89)
+
+*3D Keyboard Plate*
+![image](https://github.com/user-attachments/assets/57facf11-de91-4f5d-9f60-c00dd92e9887)
+
+*3D Back Plate*
+![image](https://github.com/user-attachments/assets/1ba2c2ec-b057-4017-ab46-482667685f35)
 
 
 ---  
