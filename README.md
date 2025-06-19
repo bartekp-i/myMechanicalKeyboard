@@ -52,7 +52,8 @@ This project is a custom 75% mechanical keyboard PCB designed around the Raspber
 
 ### OLED Module  
 - **0.96-inch RGB OLED**: Connected via SPI.  
-- Mounting: THT pads or header pins for secure attachment.  
+- Mounting: THT pads or header pins for secure attachment.
+- Finally I decided to not use it due to current draw considerations. 
 
 ---
 
@@ -65,9 +66,8 @@ This project is a custom 75% mechanical keyboard PCB designed around the Raspber
 ---
 
 ## Firmware  
-- Yet to be coded
-- Compatible with **QMK** or **KMK** (CircuitPython-based).  
-- Example firmware will be available in `Firmware/`.  
+- Coded using *QMK*-RP2040 is compatible with this software.  
+- Example firmware available in `Firmware/`.  
 
 ---
 
@@ -120,6 +120,10 @@ This project is a custom 75% mechanical keyboard PCB designed around the Raspber
 ![aa148c33-f10a-49f3-b886-1f6bd5d3fd8b](https://github.com/user-attachments/assets/a5459021-be8b-4f22-b05b-54fb88cb2bae)
 ![42f9e057-b715-42d8-a504-73b2bb60c914](https://github.com/user-attachments/assets/35e36f4b-e37e-4cb5-a0d1-208a5fb0f74c)
 
+**Fully Assembled Product**
+![image](https://github.com/user-attachments/assets/0caddafa-f553-4fc4-9ca0-479b32b712f2)
+![image](https://github.com/user-attachments/assets/8fec7c83-ebb9-4975-b781-b954e30a17ac)
+![image](https://github.com/user-attachments/assets/31276055-dfcf-46ac-b06c-874921904d9a)
 
 
 ---  
