@@ -123,7 +123,7 @@ This project is a custom 75% mechanical keyboard PCB designed around the Raspber
 **Fully Assembled Product**
 ![image](https://github.com/user-attachments/assets/0caddafa-f553-4fc4-9ca0-479b32b712f2)
 ![image](https://github.com/user-attachments/assets/8fec7c83-ebb9-4975-b781-b954e30a17ac)
-![image](https://github.com/user-attachments/assets/31276055-dfcf-46ac-b06c-874921904d9a)
+
 
 
 ---  
